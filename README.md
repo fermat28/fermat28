@@ -78,7 +78,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="fermat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fermat28&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fermat" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fermat28&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fermat" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -98,4 +98,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fermat28&layout=compact&theme=algolia" alt="fermat28" /></a> </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/fermat28)
+Credits: [fermat](https://github.com/fermat28)
