@@ -12,17 +12,6 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-<!--
-**fermat28/fermat28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Soly
-- 🌱 I’m currently learning DevOps & ML
-- 👯 I’m looking to collaborate on flutter_project
-
-
-
 <br>
 
 
