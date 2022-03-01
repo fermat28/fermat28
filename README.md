@@ -87,12 +87,12 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   [![fermat's github activity graph](https://activity-graph.herokuapp.com/graph?username=fermat28&theme=xcode)](https://github.com/fermat28)
+[![fermat's github activity graph](https://activity-graph.herokuapp.com/graph?username=fermat28&theme=xcode)](https://github.com/fermat28)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fermat28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fermat28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fermat28&show_icons=true&locale=en&theme=tokyonight" alt="fermat28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherlockholmes2045&theme=tokyonight" alt="sherlockholmes2045" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fermat28&theme=tokyonight" alt="fermat28" /></p>
   <br/>
 
 
