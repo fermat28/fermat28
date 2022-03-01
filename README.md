@@ -87,9 +87,8 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-[![fermat's github activity graph](https://activity-graph.herokuapp.com/graph?username=fermat28&theme=xcode)](https://github.com/fermat28)
  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/fermat28"><img alt="fermat28's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fermat28&custom_title=fermat28's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fermat28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fermat28" /></p>
 
