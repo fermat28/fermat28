@@ -12,6 +12,10 @@
 - :nerd_face: Always `learning new things`
 
 <br>
+### Visitors Count
+<img align="left" src = "https://profile-counter.glitch.me/fermat28/count.svg" alt ="Loading">
+
+<br />
 <br>
 
 
