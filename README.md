@@ -4,10 +4,10 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a fifth year student at the National Polytechnic School of Douala
+- :school: I am a Networks and Information Systems Cybersesecurity student at Telecom Paris
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer`
-- :student: I’m currently learning: `DevOps` and `Software Engineering`.
+- :student: I’m currently learning: `DevSecOps` and `Cybersecurity`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`
 - :nerd_face: Always `learning new things`
 
